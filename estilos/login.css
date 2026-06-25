@@ -70,6 +70,7 @@ div.campo > label {
 }
 
 div.campo > span.material-symbols-outlined {
+    display: inline-block;
     color: white;
     font-size: 2em;
     width: 40px;
